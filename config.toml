@@ -1,0 +1,47 @@
+baseurl = "https://talhamirza.com/"
+theme = "cocoa-eh"
+builddrafts = true
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Talha Mirza"
+title = "Talha Mirza"
+disqusshortname = ""
+pluralizelisttitles = false
+
+[permalinks]
+
+[params]
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "Talha's blog on data science and ML"
+copyright = "Copyright © 2018-2019 Talha Mirza"
+logofile = "img/favicon.ico"
+faviconfile = "img/favicon.ico"
+highlightjs = true
+progressively = true
+share = false
+align_left = false
+latestpostcount = 5
+github = "talmirza"
+#linkedin = "john-example-aa80ue8è"
+twitter = "talmirza"
+social_banner = "img/banner.png"
+usesmallsummarycard = false
+posts_navigation = true
+small_banner_logo = false
+
+[params.colors]
+identifier = "#527fc1f"
+identifier_dark = "#1a3152"
+trivial = "#6a7a8b"
+foreground = "#181d2a"
+background = "#f9f9f9"
+background_dark = "#282a36"
+code = "#87a5d2"
+type = "#97d28b"
+special = "#ffcb8d"
+value = "#96c2d7"
+statement = "#ff8e91"
