@@ -2,6 +2,3 @@
   for = "/*"
   [headers.values]
     Access-Control-Allow-Origin = "*"
-  for = "/img"
-  [headers.values]
-    Access-Control-Allow-Origin = "*"
