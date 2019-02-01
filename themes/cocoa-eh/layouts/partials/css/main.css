@@ -162,8 +162,8 @@ div.header .container .logo {
   {{ else }}
   max-width: 100px;
   {{ end }}
-  margin-left: -2em;
-  margin-right: -2em;
+  margin-left: 20px;
+  margin-right: 30px;
 }
 div.header .name {
   padding-top: 20px;
