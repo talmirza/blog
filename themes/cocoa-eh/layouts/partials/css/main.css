@@ -159,8 +159,12 @@ div.header .content {
 div.header .container .logo {
   {{ if .Site.Params.enlarged }}
   max-width: 200px;
+  margin-left: 20px;
+  margin-right: 30px;
   {{ else }}
   max-width: 100px;
+  margin-left: 20px;
+  margin-right: 30px;
   {{ end }}
   margin-left: 20px;
   margin-right: 30px;
