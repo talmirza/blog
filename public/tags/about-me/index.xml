@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on Talha Mirza</title>
+    <link>https://talhamirza.com/tags/about-me/</link>
+    <description>Recent content in About Me on Talha Mirza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 19 Nov 2018 22:56:50 -0500</lastBuildDate>
+    
+	<atom:link href="https://talhamirza.com/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://talhamirza.com/about/</link>
+      <pubDate>Mon, 19 Nov 2018 22:56:50 -0500</pubDate>
+      
+      <guid>https://talhamirza.com/about/</guid>
+      <description>&amp;ldquo;The best time to plant a tree was 20 years ago. The second best time is now.&amp;rdquo;
+ My name is Talha Mirza. I&amp;rsquo;m an energy efficiency and renewable energy consultant. I&amp;rsquo;m interested in learning about and applying data science and machine learning techniques in solving problems related to energy, emissions, and climate change.</description>
+    </item>
+    
+  </channel>
+</rss>

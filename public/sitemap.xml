@@ -3,17 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://talhamirza.com/blog/second-post/</loc>
+    <lastmod>2018-11-24T21:05:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talhamirza.com/about/</loc>
+    <lastmod>2018-11-19T22:56:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talhamirza.com/blog/first-post/</loc>
+    <lastmod>2018-11-19T22:14:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talhamirza.com/tags/about-me/</loc>
+    <lastmod>2018-11-19T22:56:50-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://talhamirza.com/blog/</loc>
+    <lastmod>2018-11-24T21:05:04-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://talhamirza.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talhamirza.com/tags/getting-started/</loc>
+    <lastmod>2018-11-19T22:14:35-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talhamirza.com/tags/hugo/</loc>
+    <lastmod>2018-11-24T21:05:04-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talhamirza.com/tags/</loc>
+    <lastmod>2018-11-19T22:56:50-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talhamirza.com/</loc>
+    <lastmod>2018-11-24T21:05:04-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talhamirza.com/tags/web-dev/</loc>
+    <lastmod>2018-11-24T21:05:04-05:00</lastmod>
     <priority>0</priority>
   </url>
   
